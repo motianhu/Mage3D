@@ -1,0 +1,4 @@
+1.0
+//blend_factors ONE ONE ONE ONE
+blend_factors SRC_ALPHA ONE ONE_MINUS_SRC_ALPHA ONE_MINUS_SRC_ALPHA
+//blend_factors ZERO ZERO ZERO ZERO

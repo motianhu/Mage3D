@@ -1,0 +1,7 @@
+1.0
+shader_program changecolor.sp
+depth_write FALSE
+depth_test FALSE
+blend_factors SRC_ALPHA ONE ONE_MINUS_SRC_ALPHA ONE_MINUS_SRC_ALPHA
+
+property DYNAMIC bool false  // Continuous rendering

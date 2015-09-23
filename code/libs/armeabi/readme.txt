@@ -1,0 +1,1 @@
+Folder holds latest version of liba3m.so and libja3m.so if local copies are required.

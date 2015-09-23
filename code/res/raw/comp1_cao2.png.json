@@ -1,0 +1,30 @@
+	 {"LayName": "CAO2.png", "LayWidth": 1440.000000, "LayHeight": 170.000000, "LayID": 15, "ParentID": 0, "LayIn": 0.00, "LayDur": 30.00, "CompIn": 0.00, "CompDur": 30.00, "Normalization": false,
+		"SourcePath": "//pc10110074/d$/Customer/Gionee/1080x1920folder/(Footage)/CAO2.png",
+		"Version": "231003475",
+			 	"Marker": { 
+				 }, 
+				 "AnchorPoint": { 
+					"X": 0.500000000, "Y": 0.500000000, "Z": 0.000000000
+					 }, 
+				 "Position": { 
+					"X": 638.77, "Y": 1195.00, "Z": -23.00
+					 }, 
+				 "Scale": { 
+					"X": 100.00, "Y": 100.00, "Z": 100.00
+					 }, 
+				 "Orientation": { 
+					"X": 0.00, "Y": 0.00, "Z": 0.00
+					 }, 
+				 "XRotation": { 
+					"Val": 0.00
+					 }, 
+				 "YRotation": { 
+					"Val": 0.00
+					 }, 
+				 "ZRotation": { 
+					"Val": 0.00
+					 }, 
+				 "Opacity": { 
+					"Val": 100.00
+					 } 
+	}

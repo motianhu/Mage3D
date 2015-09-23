@@ -1,0 +1,8 @@
+1.0
+vertex_source_file changecolor.vert
+fragment_source_file changecolor.frag
+
+uniform u_color_rgb COLORRGB
+uniform u_texture TEXTURE
+uniform u_m_opacity M_OPACITY
+uniform u_t_modelViewProjection T_MODEL_VIEW_PROJECTION
